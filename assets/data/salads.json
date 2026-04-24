@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "name": "Klasik Sezar Salata",
+    "ingredients": ["1 adet marul", "Kruton ekmek", "Parmesan peyniri", "Sezar sos", "Izgara tavuk göğsü (isteğe bağlı)"],
+    "steps": ["Marulları yıkayıp doğrayın.", "Tavuk göğsünü ızgarada pişirip dilimleyin.", "Geniş bir kasede marul, kruton ve tavuğu harmanlayın.", "Üzerine Sezar sos ve rendelenmiş parmesan ekleyerek servis yapın."],
+    "preparationTime": "15 dk",
+    "calories": 350,
+    "tags": ["Klasik", "Yüksek Protein", "Doyurucu"],
+    "imageUrl": "assets/1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Akdeniz Rüzgarı",
+    "ingredients": ["Çoban salata malzemeleri (domates, salatalık, soğan)", "Beyaz peynir", "Siyah zeytin", "Zeytinyağı", "Kekik ve limon suyu"],
+    "steps": ["Tüm sebzeleri küp küp doğrayın.", "Beyaz peyniri ufalayın veya küp şeklinde kesin.", "Malzemeleri zeytinlerle birlikte kaseye alın.", "Zeytinyağı, limon suyu ve kekik gezdirip karıştırın."],
+    "preparationTime": "10 dk",
+    "calories": 220,
+    "tags": ["Akdeniz", "Glütensiz", "Hafif", "Vejetaryen"],
+    "imageUrl": "assets/2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Kinoa ve Avokado Salatası",
+    "ingredients": ["1 su bardağı haşlanmış kinoa", "1 adet olgun avokado", "Çeri domates", "Taze nane ve maydanoz", "Zeytinyağı ve limon"],
+    "steps": ["Kinoayı haşlayıp soğumaya bırakın.", "Avokadoyu ve domatesleri dilimleyin.", "Yeşillikleri ince ince kıyın.", "Tüm malzemeleri kasede birleştirip sosunu ekleyin."],
+    "preparationTime": "20 dk",
+    "calories": 320,
+    "tags": ["Vegan", "Glütensiz", "Sağlıklı Yağlar"],
+    "imageUrl": "assets/3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Asya Usulü Noodle Salatası",
+    "ingredients": ["Pirinç eriştesi (rice noodle)", "Havuç ve salatalık şeritleri", "Kırmızı lahana", "Soya sosu", "Susam ve susam yağı"],
+    "steps": ["Pirinç eriştesini sıcak suda yumuşatın.", "Sebzeleri jülyen doğrayın.", "Erişte ve sebzeleri harmanlayın.", "Soya sosu ve susam yağı ile tatlandırıp susam serpin."],
+    "preparationTime": "15 dk",
+    "calories": 280,
+    "tags": ["Asya", "Vegan", "Hafif"],
+    "imageUrl": "assets/4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Cevizli Tulum Peynirli Roka",
+    "ingredients": ["1 bağ taze roka", "Tulum peyniri", "İri kıyılmış ceviz", "Nar taneleri", "Nar ekşisi ve zeytinyağı"],
+    "steps": ["Rokaları yıkayıp kurulayın ve iri iri doğrayın.", "Üzerine tulum peynirini serpiştirin.", "Ceviz ve nar tanelerini ekleyin.", "Servis öncesi zeytinyağı ve nar ekşisi gezdirin."],
+    "preparationTime": "10 dk",
+    "calories": 250,
+    "tags": ["Yöresel", "Vejetaryen", "Hızlı"],
+    "imageUrl": "assets/1.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Ton Balıklı Fit Salata",
+    "ingredients": ["1 kutu konserve ton balığı", "Göbek marul", "Haşlanmış mısır", "Kırmızı soğan", "Limon suyu ve zeytinyağı"],
+    "steps": ["Marulu ince kıyım doğrayın.", "Ton balığının yağını süzüp kaseye ekleyin.", "Mısır ve soğanı ilave edin.", "Limon suyu sıkıp karıştırın."],
+    "preparationTime": "10 dk",
+    "calories": 210,
+    "tags": ["Deniz Ürünü", "Yüksek Protein", "Hızlı"],
+    "imageUrl": "assets/2.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Meksika Fasulyesi Salatası",
+    "ingredients": ["Kırmızı fasulye (konserve)", "Jalapeno biberi", "Mısır", "Kişniş", "Misket limonu suyu"],
+    "steps": ["Fasulyeleri ve mısırı süzün.", "Biberi ince dilimleyin.", "Kişnişi kıyıp birleştirin.", "Limonla tatlandırın."],
+    "preparationTime": "10 dk",
+    "calories": 260,
+    "tags": ["Meksika", "Vegan", "Doyurucu"],
+    "imageUrl": "assets/3.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Izgara Somon Salatası",
+    "ingredients": ["1 dilim somon", "Bebek ıspanak", "Kuşkonmaz", "Hardal sosu"],
+    "steps": ["Somonu pişirin.", "Kuşkonmazları ızgaralayın.", "Ispanakla servis yapın."],
+    "preparationTime": "25 dk",
+    "calories": 420,
+    "tags": ["Deniz Ürünü", "Sağlıklı Yağlar"],
+    "imageUrl": "assets/4.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Nohutlu Semizotu",
+    "ingredients": ["1 bağ semizotu", "Haşlanmış nohut", "Yoğurt", "Sarımsak", "Pul biber"],
+    "steps": ["Semizotunu ayıklayın.", "Yoğurt ve sarımsakla karıştırın.", "Nohutu ekleyip servis yapın."],
+    "preparationTime": "15 dk",
+    "calories": 290,
+    "tags": ["Yöresel", "Vejetaryen"],
+    "imageUrl": "assets/1.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Meyveli Yaz Salatası",
+    "ingredients": ["Yeşillikler", "Çilek", "Yaban mersini", "Keçi peyniri"],
+    "steps": ["Meyveleri doğrayın.", "Yeşillik ve peynirle karıştırın."],
+    "preparationTime": "10 dk",
+    "calories": 180,
+    "tags": ["Hafif", "Meyveli", "Yaz Serinliği"],
+    "imageUrl": "assets/2.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Izgara Hellim ve Patlıcan",
+    "ingredients": ["Hellim peyniri", "Köz patlıcan", "Kapya biber", "Roka"],
+    "steps": ["Patlıcanı közleyin.", "Hellimi kızartın.", "Roka ile birleştirin."],
+    "preparationTime": "30 dk",
+    "calories": 340,
+    "tags": ["Sıcak Salata", "Akdeniz"],
+    "imageUrl": "assets/3.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Tavuklu Kuskus Salatası",
+    "ingredients": ["Kuskus", "Tavuk", "Üzüm", "Maydanoz"],
+    "steps": ["Kuskusu demleyin.", "Tavuğu doğrayıp karıştırın."],
+    "preparationTime": "20 dk",
+    "calories": 380,
+    "tags": ["Doyurucu", "Protein"],
+    "imageUrl": "assets/4.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Tofu ve Edamame",
+    "ingredients": ["Tofu", "Edamame", "Havuç", "Soya sosu"],
+    "steps": ["Tofuyu soteleyin.", "Edamame ile karıştırın."],
+    "preparationTime": "15 dk",
+    "calories": 270,
+    "tags": ["Asya", "Vegan"],
+    "imageUrl": "assets/1.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Börülce Salatası",
+    "ingredients": ["Kuru börülce", "Taze soğan", "Zeytinyağı", "Limon"],
+    "steps": ["Börülceyi haşlayın.", "Yeşilliklerle karıştırın."],
+    "preparationTime": "40 dk",
+    "calories": 230,
+    "tags": ["Vegan", "Lif"],
+    "imageUrl": "assets/2.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Elmalı Kereviz Salatası",
+    "ingredients": ["Kereviz", "Elma", "Ceviz", "Yoğurt"],
+    "steps": ["Kereviz ve elmayı rendeleyin.", "Yoğurtla karıştırın."],
+    "preparationTime": "15 dk",
+    "calories": 190,
+    "tags": ["Vejetaryen", "Kış"],
+    "imageUrl": "assets/3.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Patates Salatası",
+    "ingredients": ["Patates", "Soğan", "Turşu", "Maydanoz"],
+    "steps": ["Patatesi haşlayın.", "Diğer malzemelerle karıştırın."],
+    "preparationTime": "30 dk",
+    "calories": 280,
+    "tags": ["Klasik", "Doyurucu"],
+    "imageUrl": "assets/4.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Brokoli ve Badem",
+    "ingredients": ["Brokoli", "File badem", "Yoğurtlu sos"],
+    "steps": ["Brokoliyi haşlayın.", "Badem ve sos ekleyin."],
+    "preparationTime": "20 dk",
+    "calories": 210,
+    "tags": ["Vejetaryen", "Hafif"],
+    "imageUrl": "assets/1.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Karpuzlu Peynir",
+    "ingredients": ["Karpuz", "Ezine peyniri", "Nane"],
+    "steps": ["Küp küp doğrayın.", "Nane ile servis yapın."],
+    "preparationTime": "10 dk",
+    "calories": 150,
+    "tags": ["Meyveli", "Yaz Serinliği"],
+    "imageUrl": "assets/2.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Şehriye Salatası",
+    "ingredients": ["Arpa şehriye", "Biber", "Mısır", "Dereotu"],
+    "steps": ["Şehriyeyi pişirin.", "Sebzelerle karıştırın."],
+    "preparationTime": "25 dk",
+    "calories": 260,
+    "tags": ["Klasik", "Karbonhidrat"],
+    "imageUrl": "assets/3.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Izgara Sebze",
+    "ingredients": ["Kabak", "Patlıcan", "Havuç", "Sarımsaklı yoğurt"],
+    "steps": ["Sebzeleri közleyin.", "Yoğurt dökün."],
+    "preparationTime": "35 dk",
+    "calories": 200,
+    "tags": ["Sıcak Salata", "Sağlıklı"],
+    "imageUrl": "assets/4.jpg"
+  },
+  {
+    "id": "21",
+    "name": "Fıstıklı Pancar Salatası",
+    "ingredients": ["Pancar", "Fıstık", "Peynir", "Balzamik"],
+    "steps": ["Pancarı haşlayın.", "Dilimleyip soslayın."],
+    "preparationTime": "30 dk",
+    "calories": 240,
+    "tags": ["Renkli", "Lif"],
+    "imageUrl": "assets/1.jpg"
+  },
+  {
+    "id": "22",
+    "name": "Tavuklu Mantar Salatası",
+    "ingredients": ["Izgara tavuk", "Kavrulmuş mantar", "Yeşillik", "Zeytinyağı"],
+    "steps": ["Tavuk ve mantarı pişirin.", "Yeşilliklerle karıştırın."],
+    "preparationTime": "25 dk",
+    "calories": 310,
+    "tags": ["Protein", "Sıcak Salata"],
+    "imageUrl": "assets/2.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Yeşil Mercimek Salatası",
+    "ingredients": ["Yeşil mercimek", "Köz biber", "Dereotu", "Limon"],
+    "steps": ["Mercimeği haşlayın.", "Malzemeleri birleştirin."],
+    "preparationTime": "35 dk",
+    "calories": 290,
+    "tags": ["Protein", "Vegan"],
+    "imageUrl": "assets/3.jpg"
+  },
+  {
+    "id": "24",
+    "name": "Karidesli Avokado",
+    "ingredients": ["Haşlanmış karides", "Avokado", "Marul", "Sarımsak"],
+    "steps": ["Karidesleri marine edin.", "Avokadoyu dilimleyip karıştırın."],
+    "preparationTime": "20 dk",
+    "calories": 330,
+    "tags": ["Deniz Ürünü", "Sağlıklı Yağlar"],
+    "imageUrl": "assets/4.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Lor Peynirli Cevizli Ispanak",
+    "ingredients": ["Ispanak", "Lor peyniri", "Ceviz", "Zeytinyağı"],
+    "steps": ["Ispanakları çiğden doğrayın.", "Peynir ve ceviz ekleyin."],
+    "preparationTime": "10 dk",
+    "calories": 220,
+    "tags": ["Kalsiyum", "Vejetaryen"],
+    "imageUrl": "assets/1.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Bulgurlu Yoğurtlu Salata",
+    "ingredients": ["İnce bulgur", "Süzme yoğurt", "Nane", "Pul biber"],
+    "steps": ["Bulguru ıslatın.", "Yoğurtla karıştırıp baharat ekleyin."],
+    "preparationTime": "15 dk",
+    "calories": 250,
+    "tags": ["Yöresel", "Doyurucu"],
+    "imageUrl": "assets/2.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Somon Fümeli Kuşkonmaz",
+    "ingredients": ["Somon füme", "Kuşkonmaz", "Kapari", "Limon"],
+    "steps": ["Kuşkonmazı haşlayın.", "Somonla birlikte servis edin."],
+    "preparationTime": "15 dk",
+    "calories": 280,
+    "tags": ["Premium", "Deniz Ürünü"],
+    "imageUrl": "assets/3.jpg"
+  },
+  {
+    "id": "28",
+    "name": "Narlı Roka ve Izgara Peynir",
+    "ingredients": ["Roka", "Nar", "Izgara peynir", "Balzamik"],
+    "steps": ["Peyniri ızgaralayın.", "Roka ve narla karıştırın."],
+    "preparationTime": "15 dk",
+    "calories": 260,
+    "tags": ["Lezzet", "Vejetaryen"],
+    "imageUrl": "assets/4.jpg"
+  },
+  {
+    "id": "29",
+    "name": "Soya Filizi Salatası",
+    "ingredients": ["Soya filizi", "Havuç", "Soya sosu", "Susam yağı"],
+    "steps": ["Malzemeleri hafifçe soteleyin.", "Sıcak servis yapın."],
+    "preparationTime": "10 dk",
+    "calories": 150,
+    "tags": ["Asya", "Hafif"],
+    "imageUrl": "assets/1.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Karnabahar Kısırı",
+    "ingredients": ["Karnabahar", "Salça", "Yeşillik", "Nar ekşisi"],
+    "steps": ["Karnabaharı robottan çekin.", "Tavada salçayla kavurun."],
+    "preparationTime": "20 dk",
+    "calories": 180,
+    "tags": ["Düşük Kalori", "Vegan", "Diyet"],
+    "imageUrl": "assets/2.jpg"
+  }
+]
