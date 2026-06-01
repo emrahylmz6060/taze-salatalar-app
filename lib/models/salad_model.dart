@@ -7,6 +7,9 @@ class SaladModel {
   final int calories;
   final List<String> tags;
   final String imageUrl;
+  final double protein;
+  final double carbs;
+  final double fat;
 
   SaladModel({
     required this.id,
@@ -17,6 +20,9 @@ class SaladModel {
     required this.calories,
     required this.tags,
     required this.imageUrl,
+    this.protein = 0.0,
+    this.carbs = 0.0,
+    this.fat = 0.0,
   });
 
   factory SaladModel.fromJson(Map<String, dynamic> json) {
@@ -29,6 +35,9 @@ class SaladModel {
       calories: json['calories'] as int,
       tags: List<String>.from(json['tags']),
       imageUrl: json['imageUrl'] as String,
+      protein: (json['protein'] ?? 0.0).toDouble(),
+      carbs: (json['carbs'] ?? 0.0).toDouble(),
+      fat: (json['fat'] ?? 0.0).toDouble(),
     );
   }
 
@@ -42,6 +51,9 @@ class SaladModel {
       'calories': calories,
       'tags': tags,
       'imageUrl': imageUrl,
+      'protein': protein,
+      'carbs': carbs,
+      'fat': fat,
     };
   }
 }
